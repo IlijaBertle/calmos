@@ -1,16 +1,34 @@
-# calmos
+## CalmOS
 
-A new Flutter project.
+A minimalist and productivity-focused Android launcher.
 
-## Getting Started
+# Overview
 
-This project is a starting point for a Flutter application.
+CalmOS is a lightweight Android launcher designed to reduce distractions and help you stay focused.
+It combines a clean home screen experience with built-in productivity tools such as:
 
-A few resources to get you started if this is your first Flutter project:
+Focus Timer – Stay on task with configurable focus and break sessions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Notes Space – Quickly capture thoughts, reminders, and to-dos without switching apps.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Distraction-free UI – Prioritize what matters and hide what doesn’t.
+
+
+CalmOS aims to create a calm environment on your phone, helping you stay productive throughout the day.
+
+# Features (Planned)
+
+Clean and minimal home screen
+
+Built-in Pomodoro / Focus Timer
+
+Integrated note-taking area
+
+Customizable shortcuts
+
+Optional app drawer or app whitelist
+
+Light & dark themes
+
+Offline-first, no unnecessary permissions
+
