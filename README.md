@@ -1,8 +1,8 @@
-## CalmOS
+# CalmOS
 
 A minimalist and productivity-focused Android launcher.
 
-# Overview
+## Overview
 
 CalmOS is a lightweight Android launcher designed to reduce distractions and help you stay focused.
 It combines a clean home screen experience with built-in productivity tools such as:
@@ -16,7 +16,7 @@ Distraction-free UI – Prioritize what matters and hide what doesn’t.
 
 CalmOS aims to create a calm environment on your phone, helping you stay productive throughout the day.
 
-# Features (Planned)
+## Features (Planned)
 
 Clean and minimal home screen
 
@@ -31,4 +31,9 @@ Optional app drawer or app whitelist
 Light & dark themes
 
 Offline-first, no unnecessary permissions
+
+## Project Status
+
+This is a hobby project under active development.
+Feedback, ideas, and contributions are welcome!
 
