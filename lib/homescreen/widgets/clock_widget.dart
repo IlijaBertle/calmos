@@ -142,7 +142,10 @@ class _ClockWidgetState extends State<ClockWidget> {
                       _colorOption(Colors.cyanAccent, setModalState),
                       _colorOption(Colors.purpleAccent, setModalState),
                       _colorOption(Colors.greenAccent, setModalState),
-                      _colorOption(Colors.orangeAccent, setModalState),
+                      _colorOption(
+                        const Color.fromARGB(255, 248, 212, 5),
+                        setModalState,
+                      ),
                     ],
                   ),
                   const SizedBox(height: 30),
